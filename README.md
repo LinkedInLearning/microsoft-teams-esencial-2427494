@@ -1,4 +1,4 @@
-# Nombre final del curso
+# Desarrollo para Microsoft Teams esencial 
 
 Este es el repositorio del curso de LinkedIn Learning Desarrollo para Teams esencial. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
