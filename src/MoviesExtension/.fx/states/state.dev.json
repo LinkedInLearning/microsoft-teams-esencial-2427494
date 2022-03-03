@@ -1,0 +1,44 @@
+{
+    "solution": {
+        "teamsAppTenantId": "30f177a4-c593-43f2-aa11-eedb65485e00",
+        "subscriptionId": "61decfc3-854a-4ab6-a0c8-d0c7a88bd0a9",
+        "subscriptionName": "Microsoft Azure Sponsorship",
+        "tenantId": "63368336-e789-4b48-a0ba-7c956298e199",
+        "needCreateResourceGroup": false,
+        "resourceGroupName": "cursoteams",
+        "location": "eastus",
+        "resourceNameSuffix": "9f52a7",
+        "provisionSucceeded": true
+    },
+    "fx-resource-appstudio": {
+        "tenantId": "30f177a4-c593-43f2-aa11-eedb65485e00",
+        "teamsAppId": "d4ad2636-cafe-4179-8cae-ced2d341e182",
+        "teamsAppUpdatedAt": 1646215101625
+    },
+    "fx-resource-identity": {
+        "identityName": "moviesextedev837de1",
+        "identityResourceId": "/subscriptions/61decfc3-854a-4ab6-a0c8-d0c7a88bd0a9/resourceGroups/cursoteams/providers/Microsoft.ManagedIdentity/userAssignedIdentities/moviesextedev837de1",
+        "identityClientId": "098a698a-beff-4904-a2d4-d3ed7037b19b"
+    },
+    "fx-resource-bot": {
+        "botId": "e07a2d39-5e29-4acf-becb-d11b15ebd719",
+        "botPassword": "{{fx-resource-bot.botPassword}}",
+        "objectId": "5688c3d1-ddd6-454a-96d4-13134f66a36a",
+        "skuName": "F1",
+        "siteName": "moviesextedev837de1bot",
+        "validDomain": "moviesextedev837de1bot.azurewebsites.net",
+        "appServicePlanName": "moviesextedev837de1bot",
+        "botWebAppResourceId": "/subscriptions/61decfc3-854a-4ab6-a0c8-d0c7a88bd0a9/resourceGroups/cursoteams/providers/Microsoft.Web/sites/moviesextedev837de1bot",
+        "siteEndpoint": "https://moviesextedev837de1bot.azurewebsites.net"
+    },
+    "fx-resource-aad-app-for-teams": {
+        "clientId": "ed93d4d5-2cd4-4608-9c21-1bfc5445b809",
+        "clientSecret": "{{fx-resource-aad-app-for-teams.clientSecret}}",
+        "objectId": "67309976-27a6-4099-af47-a27938c56e4d",
+        "oauth2PermissionScopeId": "464beaf9-c964-48e3-9054-09e30acc7d20",
+        "tenantId": "30f177a4-c593-43f2-aa11-eedb65485e00",
+        "oauthHost": "https://login.microsoftonline.com",
+        "oauthAuthority": "https://login.microsoftonline.com/30f177a4-c593-43f2-aa11-eedb65485e00",
+        "applicationIdUris": "api://botid-e07a2d39-5e29-4acf-becb-d11b15ebd719"
+    }
+}
