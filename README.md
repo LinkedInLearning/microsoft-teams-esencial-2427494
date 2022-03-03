@@ -6,7 +6,7 @@ Este es el repositorio del curso de LinkedIn Learning Desarrollo para Teams esen
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Construye aplicaciones que se integren a la perfección con Microsoft Teams gracias a las instrucciones de este contenido formativo. Comenzarás explorando Microsoft Teams como plataforma y cuáles son sus características y usos principales. Posteriormente, se aprenderás a configurar el ambiente de desarrollo, así como los componentes y conceptos más importantes para construir aplicaciones para Teams que sean útiles con tus equipos de trabajo.
 
 ## Instrucciones
 
