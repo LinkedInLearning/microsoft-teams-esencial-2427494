@@ -30,5 +30,5 @@ Este repositorio tiene los proyectos con código personalizado del curso.
 
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/rodrigo-diaz-concha).
 
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-course-url]: https://www.linkedin.com/learning/instructors/rodrigo-diaz-concha
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2427494/2427494-1650011761462-16x9.jpg
